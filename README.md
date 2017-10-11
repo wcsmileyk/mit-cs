@@ -1,8 +1,8 @@
 # My MIT Opencoursware CS plan
 
-4 classes per 'semseter'
+4-5 classes per 'semseter'
 
-###Semester 1
+### Semester 1
 
 1. [6.0001 Intro to CS 
 and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm)
@@ -12,12 +12,3 @@ and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-an
 
 
 
-
-Labs:
-
-
-Advance Undergrad Subjects:
-
-
-HASS Concentration (3-4):
-Political Science
