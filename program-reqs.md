@@ -1,6 +1,6 @@
 # Bachelor of Science in Computer Science and Engineering
 
-### [Science 6 courses](http://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#sciencerequirementtext)
+### [Science - 6 courses](http://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#sciencerequirementtext)
 - [ ] 18.01 Calculus I
 - [ ] 18.02 Calculus II
 - [ ] 8.01 Physics I
@@ -18,14 +18,14 @@
 #### Social Science - 1
 - [ ] 17.20 Introduction to the American Political Process (Political Science)
 
-#### Concentration (3 or 4)
+#### Concentration - 3 or 4
 - [ ] CMS.100 Introduction to Media Studies
 - [ ] CMS.300 Introduction to Video Game Studies
 - [ ] CMS.301 Intro to Game Design Methods
 - [ ] CMS.608 Game Design
 
 
-#### Elective (1 or 2)
+#### Elective - 1 or 2
 - [ ] CMS.611[J] Creating Video Games
 - [ ] CMS.600 Video Game Theory and Analysis
 
