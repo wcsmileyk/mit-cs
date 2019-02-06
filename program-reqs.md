@@ -40,7 +40,7 @@ Need to pick between (or decide something else - target starting 3rd or 4th seme
 
 ### Departmental Requirements	Units
 
-- [ ] 6.0001	Introduction to Computer Science Programming in Python
+- [x] 6.0001	Introduction to Computer Science Programming in Python
 - [ ] 6.042[J]	Mathematics for Computer Science
 - [ ] 6.UAT	Oral Communication (CI-M)
 
